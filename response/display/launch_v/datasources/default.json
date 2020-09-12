@@ -1,0 +1,1 @@
+{"myData":{"properties":{"bgImage":"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg","buttonText":"Test aplAudioToSpeech Transformer"},"transformers":[{"template":"launch_a","outputName":"launchAudio","transformer":"aplAudioToSpeech"}]}}
