@@ -1,2 +1,2 @@
-# apl-audio-to-speech
-Sample skill demonstrating how to use the aplAudioToSpeech transformer.
+# APLA Sample Skill
+A sample skill demonstrating how to use the aplAudioToSpeech transformer.
